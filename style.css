@@ -1,0 +1,21 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.dice_button{
+  width: 20vw;
+  height: 10vw;
+  background: pink;
+  border: 1px solid hotpink;  
+  font-size: 2vw;
+}
+
+.dice_button:hover{
+  cursor: pointer;
+  background-color: rgb(252, 207, 215);
+}
